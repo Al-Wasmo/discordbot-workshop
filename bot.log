@@ -1,0 +1,88 @@
+2025-10-30 20:21:07,515 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:21:07,515 - discord.client - INFO - logging in using static token
+2025-10-30 20:21:10,205 - __main__ - ERROR - Fatal error: Improper token has been passed.
+2025-10-30 20:21:10,205 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:24:23,041 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:24:23,041 - discord.client - INFO - logging in using static token
+2025-10-30 20:24:26,546 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:24:26,546 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:24:26,567 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:24:26,572 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.admin_commands
+2025-10-30 20:24:27,498 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 57d1b0efb258c7b13cc019998c53abea).
+2025-10-30 20:24:29,502 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:24:29,502 - bot.bot - INFO - ✓ Connected to 0 guilds
+2025-10-30 20:25:12,238 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:25:12,242 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:25:20,957 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:25:20,958 - discord.client - INFO - logging in using static token
+2025-10-30 20:25:23,612 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:25:23,612 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:25:23,617 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:25:23,618 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.admin_commands
+2025-10-30 20:25:24,468 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a7c2d5ed0603be5e930793dd50b4ba7b).
+2025-10-30 20:25:26,471 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:25:26,471 - bot.bot - INFO - ✓ Connected to 0 guilds
+2025-10-30 20:27:07,948 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:27:07,950 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:27:09,087 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:27:09,088 - discord.client - INFO - logging in using static token
+2025-10-30 20:27:11,439 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:27:11,439 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:27:11,447 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:27:11,450 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.admin_commands
+2025-10-30 20:27:12,628 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: faffa50c76509ac903fc16dbd5dafada).
+2025-10-30 20:27:14,631 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:27:14,631 - bot.bot - INFO - ✓ Connected to 0 guilds
+2025-10-30 20:29:02,675 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:29:02,679 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:29:03,817 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:29:03,817 - discord.client - INFO - logging in using static token
+2025-10-30 20:29:12,351 - database.connection - ERROR - ✗ Failed to connect to MongoDB: No replica set members match selector "Primary()", Timeout: 5.0s, Topology Description: <TopologyDescription id: 6903bc82769bc8544a39f634, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jbhtt9f-shard-00-00.kwew7b2.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.07648493199849327>, <ServerDescription ('ac-jbhtt9f-shard-00-01.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-jbhtt9f-shard-00-02.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>]>
+2025-10-30 20:29:12,352 - bot.bot - ERROR - ✗ Failed to connect to database: No replica set members match selector "Primary()", Timeout: 5.0s, Topology Description: <TopologyDescription id: 6903bc82769bc8544a39f634, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jbhtt9f-shard-00-00.kwew7b2.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.07648493199849327>, <ServerDescription ('ac-jbhtt9f-shard-00-01.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-jbhtt9f-shard-00-02.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>]>
+2025-10-30 20:29:12,353 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:29:12,355 - __main__ - ERROR - Fatal error: No replica set members match selector "Primary()", Timeout: 5.0s, Topology Description: <TopologyDescription id: 6903bc82769bc8544a39f634, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jbhtt9f-shard-00-00.kwew7b2.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.07648493199849327>, <ServerDescription ('ac-jbhtt9f-shard-00-01.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-jbhtt9f-shard-00-02.kwew7b2.mongodb.net', 27017) server_type: Unknown, rtt: None>]>
+2025-10-30 20:29:12,355 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:30:07,032 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:30:07,032 - discord.client - INFO - logging in using static token
+2025-10-30 20:30:14,317 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:30:14,318 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:30:14,324 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:30:14,326 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.admin_commands
+2025-10-30 20:30:15,373 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 17b2a495a67462a9231d7d8056489867).
+2025-10-30 20:30:17,380 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:30:17,380 - bot.bot - INFO - ✓ Connected to 1 guilds
+2025-10-30 20:31:00,211 - database.repositories - INFO - ✓ Created document: 6903bcf49ceeccd77777777e
+2025-10-30 20:31:26,576 - database.repositories - INFO - ✓ Created document: 6903bd0e9ceeccd77777777f
+2025-10-30 20:42:22,170 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 17b2a495a67462a9231d7d8056489867.
+2025-10-30 20:47:01,478 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:47:01,479 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:47:09,932 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:47:09,933 - discord.client - INFO - logging in using static token
+2025-10-30 20:47:12,979 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:47:12,980 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:47:12,990 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:47:12,991 - bot.bot - ERROR - ✗ Failed to load cog bot.cogs.admin_commandsbot.cogs.ping_commands: No module named 'bot.cogs.admin_commandsbot'
+2025-10-30 20:47:13,785 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4e2cbf1f2da0a28a2b94b4e8f6dcc54a).
+2025-10-30 20:47:15,790 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:47:15,791 - bot.bot - INFO - ✓ Connected to 1 guilds
+2025-10-30 20:47:16,857 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:47:16,858 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:47:25,293 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:47:25,293 - discord.client - INFO - logging in using static token
+2025-10-30 20:47:27,867 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:47:27,867 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:47:27,869 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:47:27,869 - bot.bot - ERROR - ✗ Failed to load cog bot.cogs.admin_commandsbot.cogs.ping_commands: No module named 'bot.cogs.admin_commandsbot'
+2025-10-30 20:47:29,051 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 891e5c9c4aa21b6789f6ac1574ace05a).
+2025-10-30 20:47:29,737 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:47:29,741 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:47:41,789 - __main__ - INFO - Starting Discord bot...
+2025-10-30 20:47:41,790 - discord.client - INFO - logging in using static token
+2025-10-30 20:47:43,848 - database.connection - INFO - ✓ Connected to MongoDB: discord_bot_db
+2025-10-30 20:47:43,848 - bot.bot - INFO - ✓ Database connected
+2025-10-30 20:47:43,850 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.text_commands
+2025-10-30 20:47:43,853 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.admin_commands
+2025-10-30 20:47:43,855 - bot.bot - INFO - ✓ Loaded cog: bot.cogs.ping_commands
+2025-10-30 20:47:44,773 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1549a4bdf544332fd10d52e5eb537b81).
+2025-10-30 20:47:46,776 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
+2025-10-30 20:47:46,776 - bot.bot - INFO - ✓ Connected to 1 guilds
