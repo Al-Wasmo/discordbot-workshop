@@ -86,3 +86,7 @@
 2025-10-30 20:47:44,773 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1549a4bdf544332fd10d52e5eb537b81).
 2025-10-30 20:47:46,776 - bot.bot - INFO - ✓ Bot is ready! Logged in as Workshop#2306
 2025-10-30 20:47:46,776 - bot.bot - INFO - ✓ Connected to 1 guilds
+2025-10-30 20:51:27,122 - database.connection - INFO - ✓ MongoDB connection closed
+2025-10-30 20:51:27,123 - __main__ - INFO - Bot shutdown complete
+2025-10-30 20:51:28,338 - __main__ - ERROR - Configuration error: TOKEN is not set in environment variables
+2025-10-30 20:51:30,537 - __main__ - ERROR - Configuration error: TOKEN is not set in environment variables
